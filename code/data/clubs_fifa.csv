@@ -1,0 +1,163 @@
+,FIFA,Name,Rating,RivalTeam,Attack,Midfield,Defence,TransferBudget
+0,12,1. FC Kaiserslautern,3.5,1. FSV Mainz 05,71,71,71,5000000
+1,15,Hannover 96,4.0,VfL Wolfsburg,75,74,73,8000000
+2,18,TSG 1899 Hoffenheim,4.0,VfB Stuttgart,80,76,76,22000000
+3,19,Sport-Club Freiburg,3.5,VfB Stuttgart,75,73,74,10500000
+4,12,Borussia Dortmund,4.5,FC Schalke 04,80,80,79,15000000
+5,12,Bayer Leverkusen,4.5,1. FC Köln,78,79,75,18000000
+6,12,FC Augsburg,3.0,Bayern Munich,71,68,69,2000000
+7,14,Borussia Mönchengladbach,4.0,Bayer Leverkusen,78,74,74,10000000
+8,16,Bayer Leverkusen,4.5,1. FC Köln,79,76,76,25000000
+9,15,Borussia Mönchengladbach,4.5,1. FC Köln,76,74,76,10000000
+10,19,TSG 1899 Hoffenheim,4.0,VfB Stuttgart,77,79,79,28000000
+11,14,1. FC Nürnberg,3.5,SpVgg Greuther Fürth,73,72,72,3500000
+12,19,Hannover 96,3.5,VfL Wolfsburg,73,74,74,10000000
+13,12,SC Freiburg,3.5,VfB Stuttgart,73,73,69,2500000
+14,13,Fortuna Düsseldorf,3.5,Borussia Mönchengladbach,71,70,71,2000000
+15,16,SV Darmstadt 98,3.5,Eintracht Frankfurt,71,71,71,2200000
+16,15,1. FC Köln,3.5,Borussia Mönchengladbach,73,72,72,3500000
+17,12,FC Schalke 04,4.0,Borussia Dortmund,84,78,75,10000000
+18,17,SV Darmstadt 98,3.5,Eintracht Frankfurt,68,73,71,2500000
+19,14,VfL Wolfsburg,4.5,Hannover 96,77,75,76,20000000
+20,18,FC Schalke 04,4.5,Borussia Dortmund,78,79,79,34000000
+21,16,Hamburger SV,4.0,SV Werder Bremen,76,74,74,6000000
+22,19,Bayer Leverkusen,4.5,1. FC Köln,81,81,78,39000000
+23,19,Eintracht Frankfurt,4.0,1. FSV Mainz 05,80,78,77,14500000
+24,14,Hertha BSC Berlin,3.5,1. FC Union Berlin,79,73,73,4000000
+25,16,FC Bayern Munich,5.0,Borussia Dortmund,88,84,84,80000000
+26,14,1899 Hoffenheim,4.0,VfB Stuttgart,74,75,73,7500000
+27,16,Borussia Mönchengladbach,4.5,1. FC Köln,77,78,75,20000000
+28,14,Bayer Leverkusen,4.5,Borussia Mönchengladbach,78,76,75,12000000
+29,13,Bayer Leverkusen,4.5,Borussia Mönchengladbach,79,74,75,10000000
+30,13,VfB Stuttgart,4.0,FC Bayern Munich,78,75,74,7000000
+31,17,FC Schalke 04,4.5,Borussia Dortmund,77,79,80,34000000
+32,17,SV Werder Bremen,4.0,Hamburger SV,78,75,74,7000000
+33,17,Borussia Dortmund,4.5,FC Schalke 04,85,80,82,50000000
+34,15,SC Freiburg,3.5,VfB Stuttgart,71,71,72,4500000
+35,19,FC Augsburg,3.5,1. FSV Mainz 05,74,74,76,9500000
+36,16,VfB Stuttgart,4.0,FC Bayern Munich,75,76,74,11000000
+37,17,SC Freiburg,3.5,VfB Stuttgart,75,72,72,5500000
+38,15,Hertha BSC Berlin,4.0,FC Schalke 04,76,74,73,8000000
+39,17,1. FC Köln,4.0,Borussia Mönchengladbach,78,77,73,10000000
+40,16,FC Augsburg,4.0,FC Ingolstadt 04,75,74,73,6000000
+41,16,1. FSV Mainz 05,4.0,Eintracht Frankfurt,75,75,74,7000000
+42,12,1. FC Nürnberg,3.5,Bayern Munich,73,72,73,3000000
+43,14,VfB Stuttgart,4.0,FC Bayern Munich,77,74,73,7000000
+44,15,1. FSV Mainz 05,4.0,Eintracht Frankfurt,77,74,73,4500000
+45,15,Eintracht Frankfurt,4.0,1. FSV Mainz 05,77,70,73,5000000
+46,19,1. FSV Mainz 05,3.5,Eintracht Frankfurt,74,76,74,9000000
+47,15,Borussia Dortmund,5.0,FC Schalke 04,79,81,81,30000000
+48,15,1899 Hoffenheim,4.0,VfB Stuttgart,78,74,73,9000000
+49,18,Hertha BSC Berlin,4.0,FC Schalke 04,75,77,77,8000000
+50,12,Bayern Munich,5.0,Borussia Dortmund,86,86,81,54000000
+51,14,FC Bayern Munich,5.0,Borussia Dortmund,82,83,83,55000000
+52,18,Hannover 96,4.0,Eintracht Braunschweig,76,74,75,10000000
+53,15,FC Schalke 04,4.5,Borussia Dortmund,83,77,76,10000000
+54,15,Hamburger SV,4.0,SV Werder Bremen,76,73,72,7500000
+55,12,Hannover 96,4.0,VfL Wolfsburg,78,75,75,7000000
+56,19,Borussia Mönchengladbach,4.5,1. FC Köln,81,78,78,25000000
+57,13,FC Bayern Munich,5.0,Borussia Dortmund,83,84,82,54000000
+58,14,Eintracht Braunschweig,3.5,Hannover 96,70,69,69,1500000
+59,17,Borussia Mönchengladbach,4.5,1. FC Köln,81,78,78,25000000
+60,17,Hamburger SV,4.0,SV Werder Bremen,75,76,75,30000000
+61,17,FC Bayern Munich,5.0,Borussia Dortmund,85,85,85,90000000
+62,17,VfL Wolfsburg,4.5,Hannover 96,82,79,78,60000000
+63,18,Hamburger SV,3.5,SV Werder Bremen,73,73,74,30000000
+64,15,Bayer Leverkusen,4.0,1. FC Köln,78,77,74,18000000
+65,18,Borussia Dortmund,4.5,FC Schalke 04,81,80,81,50000000
+66,14,Hannover 96,4.0,Eintracht Braunschweig,76,74,73,7500000
+67,12,Hertha BSC,3.5,FC Schalke 04,74,74,73,4000000
+68,13,1. FSV Mainz 05,3.5,Eintracht Frankfurt,74,73,73,4500000
+69,12,VfB Stuttgart,4.0,Bayern Munich,76,76,75,7000000
+70,18,SV Werder Bremen,4.0,Hamburger SV,77,77,75,7000000
+71,15,FC Bayern Munich,5.0,Borussia Dortmund,87,85,82,55000000
+72,18,FC Augsburg,4.0,FC Bayern Munich,78,74,75,9500000
+73,12,TSG 1899 Hoffenheim,3.5,VfB Stuttgart,75,76,74,8500000
+74,16,Borussia Dortmund,5.0,FC Schalke 04,84,81,81,30000000
+75,13,SpVgg Greuther Fürth,3.5,1. FC Nürnberg,72,70,68,1500000
+76,15,VfB Stuttgart,4.0,FC Bayern Munich,76,74,72,6000000
+77,16,TSG 1899 Hoffenheim,4.0,VfB Stuttgart,75,74,75,15000000
+78,17,TSG 1899 Hoffenheim,4.0,VfB Stuttgart,78,77,77,18000000
+79,13,Borussia Dortmund,4.5,FC Schalke 04,80,80,80,17500000
+80,18,1. FC Köln,4.0,Borussia Mönchengladbach,75,77,75,14500000
+81,16,FC Schalke 04,4.5,Borussia Dortmund,79,77,78,21500000
+82,13,VfL Wolfsburg,4.0,Hannover 96,77,77,74,25000000
+83,19,FC Schalke 04,4.0,Borussia Dortmund,76,77,78,42000000
+84,19,RB Leipzig,4.5,Borussia Dortmund,80,80,78,50000000
+85,19,SV Werder Bremen,4.0,Hamburger SV,75,78,76,12000000
+86,19,Fortuna Düsseldorf,3.5,1. FC Köln,74,73,72,7500000
+87,17,RB Leipzig,4.0,SV Darmstadt 98,75,76,73,50000000
+88,13,1. FC Nürnberg,3.5,SpVgg Greuther Fürth,71,72,73,3500000
+89,18,Bayer Leverkusen,4.5,1. FC Köln,79,79,79,32000000
+90,16,1. FC Köln,4.0,Borussia Mönchengladbach,74,73,74,8000000
+91,16,VfL Wolfsburg,4.5,Hannover 96,78,79,79,50000000
+92,14,FC Schalke 04,4.5,Borussia Dortmund,80,77,75,10000000
+93,16,FC Ingolstadt 04,3.5,FC Augsburg,71,72,72,4000000
+94,12,Borussia Mönchengladbach,3.5,1. FC Köln,77,74,74,6000000
+95,14,Hamburger SV,4.0,SV Werder Bremen,77,74,74,5000000
+96,16,Eintracht Frankfurt,4.0,1. FSV Mainz 05,76,72,73,6000000
+97,19,1. FC Nürnberg,3.5,SpVgg Greuther Fürth,73,72,72,5500000
+98,18,FC Bayern Munich,5.0,Borussia Dortmund,91,85,86,90000000
+99,18,RB Leipzig,4.0,Borussia Dortmund,78,80,76,50000000
+100,17,1. FSV Mainz 05,4.0,Eintracht Frankfurt,77,76,74,9500000
+101,17,Bayer Leverkusen,4.5,1. FC Köln,79,80,79,40000000
+102,15,SV Werder Bremen,3.5,Hamburger SV,73,73,71,3000000
+103,12,VfL Wolfsburg,4.0,Hannover 96,78,75,73,25000000
+104,17,Eintracht Frankfurt,4.0,1. FSV Mainz 05,73,75,76,7500000
+105,15,VfL Wolfsburg,4.5,Hannover 96,77,78,76,25000000
+106,13,1899 Hoffenheim,4.0,VfB Stuttgart,74,74,71,7500000
+107,14,SC Freiburg,3.5,VfB Stuttgart,70,72,71,4500000
+108,16,Hannover 96,4.0,VfL Wolfsburg,73,70,74,10000000
+109,13,Hamburger SV,4.0,SV Werder Bremen,74,75,73,5000000
+110,18,Borussia Mönchengladbach,4.0,1. FC Köln,78,78,78,25000000
+111,15,SC Paderborn 07,3.0,1. FC Köln,69,68,68,1500000
+112,13,FC Augsburg,3.5,FC Bayern Munich,72,69,71,2000000
+113,14,SV Werder Bremen,3.5,Hamburger SV,75,73,73,5000000
+114,17,FC Ingolstadt 04,3.5,FC Augsburg,73,72,72,6000000
+115,12,Hamburger SV,4.0,Werder Bremen,79,75,74,8000000
+116,16,SV Werder Bremen,4.0,Hamburger SV,76,70,75,4500000
+117,19,Hertha BSC,4.0,FC Schalke 04,77,76,77,12000000
+118,12,1. FC Köln,3.5,Borussia M'gladbach,80,74,74,5000000
+119,14,FC Augsburg,3.5,1860 Munich,73,70,73,2500000
+120,13,SC Freiburg,3.5,VfB Stuttgart,71,74,72,2500000
+121,18,VfB Stuttgart,4.0,SC Freiburg,76,75,75,11000000
+122,18,1. FSV Mainz 05,4.0,Eintracht Frankfurt,76,75,74,9000000
+123,13,FC Schalke 04,4.5,Borussia Dortmund,83,78,75,10000000
+124,18,SC Freiburg,3.5,VfB Stuttgart,74,72,73,5500000
+125,13,Hannover 96,4.0,VfL Wolfsburg,78,74,73,8000000
+126,18,VfL Wolfsburg,4.0,Hannover 96,77,79,75,42000000
+127,19,VfL Wolfsburg,4.0,Hannover 96,77,78,77,40000000
+128,13,Eintracht Frankfurt,4.0,1. FSV Mainz 05,72,74,73,4500000
+129,19,Borussia Dortmund,4.5,FC Schalke 04,82,82,79,60000000
+130,19,VfB Stuttgart,4.0,Sport-Club Freiburg,75,76,75,20000000
+131,13,SV Werder Bremen,4.0,Hamburger SV,73,74,74,6000000
+132,14,1. FSV Mainz 05,3.5,1. FC Kaiserslautern,76,74,73,4500000
+133,13,Borussia Mönchengladbach,4.0,Bayer Leverkusen,72,75,75,10000000
+134,16,Hertha BSC Berlin,4.0,FC Schalke 04,75,75,76,8000000
+135,17,Hertha BSC Berlin,4.0,FC Schalke 04,80,77,77,8000000
+136,12,1. FSV Mainz 05,3.5,1. FC Kaiserslautern,74,73,73,5500000
+137,18,Eintracht Frankfurt,4.0,1. FSV Mainz 05,76,77,75,12500000
+138,15,FC Augsburg,3.5,1860 Munich,73,72,73,3000000
+139,19,FC Bayern Munich,5.0,Borussia Dortmund,85,85,85,100000000
+140,14,Borussia Dortmund,5.0,FC Schalke 04,82,81,79,25000000
+141,14,Eintracht Frankfurt,4.0,1. FSV Mainz 05,72,74,75,5000000
+142,17,FC Augsburg,4.0,FC Ingolstadt 04,77,75,75,9000000
+143,12,Werder Bremen,4.0,Hamburger SV,78,73,74,8000000
+0,21,Borussia Mönchengladbach,4.5,1. FC Köln,79,79,79,25000000
+1,21,Bayer Leverkusen,4.5,1. FC Köln,79,79,79,39000000
+2,21,SV Werder Bremen,3.5,Hamburger SV,73,72,74,12000000
+3,21,RB Leipzig,4.5,Borussia Dortmund,78,81,79,50000000
+4,21,VfL Wolfsburg,4.0,Hannover 96,81,76,75,40000000
+5,21,Eintracht Frankfurt,4.0,1. FSV Mainz 05,79,76,76,25000000
+6,21,Borussia Dortmund,4.5,FC Schalke 04,85,82,81,60000000
+7,21,1. FC Köln,3.5,Borussia Mönchengladbach,74,73,72,12500000
+8,21,TSG Hoffenheim,4.0,VfB Stuttgart,79,76,76,28000000
+9,21,FC Bayern Munich,5.0,Borussia Dortmund,91,84,82,100000000
+10,21,1. FSV Mainz 05,3.5,Eintracht Frankfurt,74,73,73,9000000
+11,21,FC Schalke 04,4.0,Borussia Dortmund,74,73,74,20000000
+12,21,DSC Arminia Bielefeld,3.5,VfL Osnabrück,72,71,70,2300000
+13,21,1. FC Union Berlin,3.5,Hertha Berlin,71,72,74,6500000
+14,21,Sport-Club Freiburg,3.5,VfB Stuttgart,73,74,75,10500000
+15,21,FC Augsburg,3.5,FC Bayern München,75,74,74,9500000
+16,21,Hertha BSC,4.0,1. FC Union Berlin,77,77,75,60000000
+17,21,VfB Stuttgart,3.5,Sport-Club Freiburg,75,72,72,20000000
